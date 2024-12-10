@@ -1,0 +1,5 @@
+/* Write your code here. */
+.bgCon{
+    background-image: linear-gradient(to right,#9796f0,#fbc7d4);
+    min-height:100vh;
+}
